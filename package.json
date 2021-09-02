@@ -1,0 +1,22 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "Learning Typescript by making a Blockchain.",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc-watch --onSuccess \" node ./dist/index.js\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayodhya82/typechain_2021.git"
+  },
+  "author": "ayodhya82",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayodhya82/typechain_2021/issues"
+  },
+  "homepage": "https://github.com/ayodhya82/typechain_2021#readme",
+  "devDependencies": {
+    "tsc-watch": "^4.5.0"
+  }
+}
