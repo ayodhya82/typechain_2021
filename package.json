@@ -18,5 +18,8 @@
   "homepage": "https://github.com/ayodhya82/typechain_2021#readme",
   "devDependencies": {
     "tsc-watch": "^4.5.0"
+  },
+  "dependencies": {
+    "crypto-js": "^4.1.1"
   }
 }
